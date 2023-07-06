@@ -125,7 +125,6 @@ namespace Calculator
 
         private void ThreeButton_Click(object sender, RoutedEventArgs e)
         {
-            int three = 3;
             display.Text += "3";
         }
 
